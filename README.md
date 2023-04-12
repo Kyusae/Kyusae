@@ -2,12 +2,12 @@
 
 ##
 
-<img src="https://user-images.githubusercontent.com/85590416/231555572-d2d0483e-11e3-4aaa-be13-c92b86381483.png" height="20" width="20"/> # Portguese
+<img src="https://user-images.githubusercontent.com/85590416/231555572-d2d0483e-11e3-4aaa-be13-c92b86381483.png" height="20" width="20"/> - Portguese
 - Hoje trabalho como Analista de Suporte de T.I Pleno <br>
 - Sou formado em Engenharia de Computação <br>
 - Estou aprendendo Python, C# e SQL Server <br>
 
-<img src="https://user-images.githubusercontent.com/85590416/231556123-2e60f986-9631-41d1-b0f2-1f582088ed96.png" height="20" width="20"/> # English
+<img src="https://user-images.githubusercontent.com/85590416/231556123-2e60f986-9631-41d1-b0f2-1f582088ed96.png" height="20" width="20"/> - English
 - At the moment i’m working as an IT Support Analyst II <br>
 - Graduated in Computer Engineering <br>
 - I'm learning Python, C# and SQL Server <br>
