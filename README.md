@@ -3,6 +3,7 @@
 ##
 
 - Hoje trabalho como Analista de Suporte de T.I Pleno
+- Sou formado em Engenharia de Computação
 - Estou aprendendo Python, C# e SQL Server
 
 ##
