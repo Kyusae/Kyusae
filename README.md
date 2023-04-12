@@ -1,10 +1,16 @@
-### ✌️ Seja Bem Vindo! Eu sou o Guilherme Henrique / Welcome! I'm Guilherme Henrique
+### ✌🏽 Seja Bem Vindo! Eu sou o Guilherme Henrique / Welcome! I'm Guilherme Henrique
 
 ##
 
-- Hoje trabalho como Analista de Suporte de T.I Pleno / At the moment i’m working as an IT Support Analyst II
-- Sou formado em Engenharia de Computação / Graduated in Computer Engineering
-- Estou aprendendo Python, C# e SQL Server / I'm learning Python, C# and SQL Server
+- Hoje trabalho como Analista de Suporte de T.I Pleno
+- Sou formado em Engenharia de Computação 
+- Estou aprendendo Python, C# e SQL Server 
+
+##
+
+- At the moment i’m working as an IT Support Analyst II
+- Graduated in Computer Engineering
+- I'm learning Python, C# and SQL Server
 
 ##
 
