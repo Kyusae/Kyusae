@@ -2,7 +2,7 @@
 
 ##
 
-- <img src="https://user-images.githubusercontent.com/85590416/231555572-d2d0483e-11e3-4aaa-be13-c92b86381483.png" height="20" width="20"/> Hoje trabalho como Analista de Suporte de T.I Pleno / <img src="https://user-images.githubusercontent.com/85590416/231556123-2e60f986-9631-41d1-b0f2-1f582088ed96.png" height="20" width="20"/> At the moment i’m working as an IT Support Analyst II
+- <img src="https://user-images.githubusercontent.com/85590416/231555572-d2d0483e-11e3-4aaa-be13-c92b86381483.png" height="20" width="20"/> Hoje trabalho como Analista de Suporte de T.I Pleno <img src="https://user-images.githubusercontent.com/85590416/231556123-2e60f986-9631-41d1-b0f2-1f582088ed96.png" height="20" width="20"/> At the moment i’m working as an IT Support Analyst II
 - Sou formado em Engenharia de Computação / Graduated in Computer Engineering
 - Estou aprendendo Python, C# e SQL Server / I'm learning Python, C# and SQL Server
 
