@@ -2,7 +2,7 @@
 
 ##
 
-- Hoje trabalho como Analista de Suporte de T.I Pleno / At the moment I’m working as an IT Support Analyst II
+- Hoje trabalho como Analista de Suporte de T.I Pleno / At the moment i’m working as an IT Support Analyst II
 - Sou formado em Engenharia de Computação / Graduated in Computer Engineering
 - Estou aprendendo Python, C# e SQL Server / I'm learning Python, C# and SQL Server
 
