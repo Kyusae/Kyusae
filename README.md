@@ -5,7 +5,7 @@
 # Sobre Mim / About Me 
 
 <img align="left" src="https://user-images.githubusercontent.com/85590416/231555572-d2d0483e-11e3-4aaa-be13-c92b86381483.png" height="20" width="20"/> - Portuguese
-- **Analista de Suporte de T.I Pleno** - [IT4 Solution](https://www.it4solution.com.br/)
+- **Analista de Suporte de T.I Pleno** - <a href="https://www.it4solution.com.br/" target="_blank">IT4 Solution</a>
 - Formado em Engenharia de Computação <br>
 - Aprendendo Python, C#, SQL Server e .Net <br>
 
