@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 ## ✌🏽 Seja Bem Vindo! / Welcome!
 
 ![giphy3](https://user-images.githubusercontent.com/85590416/231835771-194c80c2-422b-425d-9b40-ec3ad4464e16.gif)
@@ -19,7 +18,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kyusae-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <i class="devicon-microsoftsqlserver-plain-wordmark colored"></i>
+  <img align="center" alt="Kyusae-SQL" height="60" width="70" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
   <img align="center" alt="Kyusae-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Kyusae-.NET" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Kyusae-VisualStudio" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
