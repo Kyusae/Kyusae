@@ -1,4 +1,4 @@
-### ✌🏽 Seja Bem Vindo! Eu sou o Guilherme Henrique / Welcome! I'm Guilherme Henrique
+### ✌🏽 Seja Bem Vindo! / Welcome!
 
 ##
 
