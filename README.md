@@ -22,7 +22,8 @@
   <img align="center" alt="Kyusae-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Kyusae-VisualStudio" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Kyusae-VsCode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyusae&theme=onedark&hide_border=false&  include_all_commits=false&count_private=false&layout=compact" />
+ </div>
  
  # Links
  
