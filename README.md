@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 ## ✌🏽 Seja Bem Vindo! / Welcome!
 
 ![giphy3](https://user-images.githubusercontent.com/85590416/231835771-194c80c2-422b-425d-9b40-ec3ad4464e16.gif)
@@ -7,19 +8,20 @@
 <img align="left" src="https://user-images.githubusercontent.com/85590416/231555572-d2d0483e-11e3-4aaa-be13-c92b86381483.png" height="20" width="20"/> - Portuguese
 - **Analista de Suporte de T.I Pleno** - [IT4 Solution](https://www.it4solution.com.br/)
 - Formado em Engenharia de Computação <br>
-- Aprendendo Python, C# e SQL Server <br>
+- Aprendendo Python, C#, SQL Server e .Net <br>
 
 <img align="left" src="https://user-images.githubusercontent.com/85590416/231556123-2e60f986-9631-41d1-b0f2-1f582088ed96.png" height="20" width="20"/> - English
 - **IT Support Analyst II** - [IT4 Solution](https://www.it4solution.com.br/)
 - Graduated in Computer Engineering <br>
-- Learning Python, C# and SQL Server <br>
+- Learning Python, C#, SQL Server and .Net <br>
 
 # Principais Linguagens e IDEs / Main Languages and IDEs
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kyusae-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Kyusae-SQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <i class="devicon-microsoftsqlserver-plain-wordmark colored"></i>
   <img align="center" alt="Kyusae-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Kyusae-.NET" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Kyusae-VisualStudio" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Kyusae-VsCode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  </div>
