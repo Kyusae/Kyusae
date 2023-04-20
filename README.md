@@ -1,6 +1,6 @@
 ## ✌🏽 Seja Bem Vindo! / Welcome!
 
-![giphy3](https://user-images.githubusercontent.com/85590416/231835771-194c80c2-422b-425d-9b40-ec3ad4464e16.gif)
+![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966](https://user-images.githubusercontent.com/85590416/233452086-84544aa9-bb93-4e3a-ba03-c71c504057d7.gif)
 
 # Sobre Mim / About Me 
 
@@ -37,3 +37,5 @@
 <br> 
 
 ![giphy](https://user-images.githubusercontent.com/85590416/231837628-3775016a-4739-46d5-a25e-8577f705cb57.gif)
+
+![](https://komarev.com/ghpvc/?username=Kyusae&color=006bed)
