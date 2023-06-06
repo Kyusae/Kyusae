@@ -7,12 +7,12 @@
 <img align="left" src="https://user-images.githubusercontent.com/85590416/231555572-d2d0483e-11e3-4aaa-be13-c92b86381483.png" height="20" width="20"/> - Portuguese
 - **Analista de Suporte de T.I Pleno** - [IT4 Solution](https://www.it4solution.com.br/)
 - Formado em Engenharia de Computação <br>
-- Aprendendo Python, C#, SQL Server e .Net <br>
+- Aprendendo Python, C#, SQL Server, .Net e Francês <br>
 
 <img align="left" src="https://user-images.githubusercontent.com/85590416/231556123-2e60f986-9631-41d1-b0f2-1f582088ed96.png" height="20" width="20"/> - English
 - **IT Support Analyst II** - [IT4 Solution](https://www.it4solution.com.br/)
 - Graduated in Computer Engineering <br>
-- Learning Python, C#, SQL Server and .Net <br>
+- Learning Python, C#, SQL Server, .Net and French <br>
 
 # Principais Linguagens e IDEs / Main Languages and IDEs
 
