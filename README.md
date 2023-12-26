@@ -5,12 +5,12 @@
 # Sobre Mim / About Me 
 
 <img align="left" src="https://user-images.githubusercontent.com/85590416/231555572-d2d0483e-11e3-4aaa-be13-c92b86381483.png" height="20" width="20"/> - Portuguese
-- **Analista de Suporte de T.I Pleno** - [IT4 Solution](https://www.it4solution.com.br/)
+- **Analista de Service Desk Jr.** - [FARFETCH]([https://www.it4solution.com.br/](https://aboutfarfetch.com/?_ga=2.162779644.1173454321.1703563160-483092603.1692391541&_gl=1*qqtpkn*_ga*NDgzMDkyNjAzLjE2OTIzOTE1NDE.*_ga_CEF7PMN9HX*MTcwMzU2MzE1OS40LjAuMTcwMzU2MzE2Mi41Ny4wLjA.*_fplc*cnd4YmFCQ1VWJTJCeVRyNjUwZHRBV1pJOTFZTmFXZVhLUExZNzI2OWpJSVl6NmVtMyUyQiUyQlZTQWhwRXhWb3RadWNybUJOaGpIMHhrQjdlYXF6dDcxYk1IYzhjeGhsOE42NG8xT2klMkJkcDFaWE5WelBBYzFpNWFLeGx5cHpOSkJqeHclM0QlM0Q.))
 - Formado em Engenharia de Computação <br>
 - Aprendendo Python, C#, SQL Server, .Net e Francês <br>
 
 <img align="left" src="https://user-images.githubusercontent.com/85590416/231556123-2e60f986-9631-41d1-b0f2-1f582088ed96.png" height="20" width="20"/> - English
-- **IT Support Analyst II** - [IT4 Solution](https://www.it4solution.com.br/)
+- **Service Desk Analyst Jr.** - [FARFETCH]([https://www.it4solution.com.br/](https://aboutfarfetch.com/?_ga=2.162779644.1173454321.1703563160-483092603.1692391541&_gl=1*qqtpkn*_ga*NDgzMDkyNjAzLjE2OTIzOTE1NDE.*_ga_CEF7PMN9HX*MTcwMzU2MzE1OS40LjAuMTcwMzU2MzE2Mi41Ny4wLjA.*_fplc*cnd4YmFCQ1VWJTJCeVRyNjUwZHRBV1pJOTFZTmFXZVhLUExZNzI2OWpJSVl6NmVtMyUyQiUyQlZTQWhwRXhWb3RadWNybUJOaGpIMHhrQjdlYXF6dDcxYk1IYzhjeGhsOE42NG8xT2klMkJkcDFaWE5WelBBYzFpNWFLeGx5cHpOSkJqeHclM0QlM0Q.))
 - Graduated in Computer Engineering <br>
 - Learning Python, C#, SQL Server, .Net and French <br>
 
